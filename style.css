@@ -1,0 +1,30 @@
+body * {
+margin:opx;
+padding:0px;
+font-family:helvetica;
+}
+
+.wrapper{
+    width:970 px;
+    height:1000px;
+    background-color: #0375b4;
+}
+
+.header {
+    width:970px;
+    height:100px;
+}
+
+.header img{
+    width:400px;
+    height:auto;
+    padding:20px;
+}
+
+.searchbro {
+    width:350px;
+    height:20px;
+    border: 2px solid #ffce00;
+   
+    display:inline-block;
+}
